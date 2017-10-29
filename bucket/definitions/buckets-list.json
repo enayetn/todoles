@@ -1,0 +1,20 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "xd64zn87": {
+        "attributes": { },
+        "created": "1509248166817",
+        "id": "xd64zn87",
+        "labels": {
+          "label": "List",
+          "labelp": "Lists"
+        },
+        "name": "list",
+        "owner": "0a07872cc3bd4f7ca45db4c47e62c08e",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}
