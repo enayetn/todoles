@@ -1,0 +1,20 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "bz44zhyw": {
+        "attributes": { },
+        "created": "1509249291625",
+        "id": "bz44zhyw",
+        "labels": {
+          "label": "Item",
+          "labelp": "Items"
+        },
+        "name": "item",
+        "owner": "0a07872cc3bd4f7ca45db4c47e62c08e",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}

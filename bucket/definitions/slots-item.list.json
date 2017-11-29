@@ -1,0 +1,23 @@
+{
+  "bucket_data": {
+    "slots": {
+      "bz44zhyw.list": {
+        "attributes": {
+          "choice_type": "boxes",
+          "bucket_name": "xd64zn87"
+        },
+        "bucket": "bz44zhyw",
+        "created": "1509295794212",
+        "labels": {
+          "label": "List",
+          "labelp": "Lists"
+        },
+        "name": "list",
+        "owner": "0a07872cc3bd4f7ca45db4c47e62c08e",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "choice"
+      }
+    }
+  }
+}

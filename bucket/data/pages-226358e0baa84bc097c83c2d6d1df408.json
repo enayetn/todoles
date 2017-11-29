@@ -1,0 +1,142 @@
+{
+  "bucket_data": {
+    "pages": {
+      "226358e0baa84bc097c83c2d6d1df408": {
+        "created": "1509293956652",
+        "id": "226358e0baa84bc097c83c2d6d1df408",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504",
+              "component_d8a9709b4b63685a638e4eb9867ae53d"
+            ],
+            "layout_type": "page_components"
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "xd64zn87",
+              "new_record": "false",
+              "layout": {
+                "layout": {
+                  "version": 1,
+                  "layout": [
+                    {
+                      "type": "section",
+                      "colData": [
+                        {
+                          "column": 0
+                        }
+                      ],
+                      "cols": [
+                        [
+                          {
+                            "type": "slot",
+                            "name": "label"
+                          },
+                          {
+                            "type": "slot",
+                            "name": "notes"
+                          }
+                        ]
+                      ],
+                      "guid": "da91ef23c923eae821b0f88f939136b5",
+                      "columns": 1
+                    }
+                  ],
+                  "pageData": { }
+                }
+              },
+              "component": "details",
+              "new_record_values": "[]",
+              "read_only": "false",
+              "query": "%{pageVars.q}",
+              "include_actions": false,
+              "id": "9f25f289dc48efa138fafd181b6462a4",
+              "csstags": "myFormClass",
+              "__raw": {
+                "query": "%{pageVars.q}"
+              }
+            },
+            "w": "25%",
+            "h": "100%"
+          },
+          "component_d8a9709b4b63685a638e4eb9867ae53d": {
+            "type": "component",
+            "component": "list",
+            "id": "component_d8a9709b4b63685a638e4eb9867ae53d",
+            "name": "component_d8a9709b4b63685a638e4eb9867ae53d",
+            "page_loading": false,
+            "needs_subpage_target": false,
+            "attributes": {
+              "force_condition": "[]",
+              "inline_details": false,
+              "columns": [
+                "list",
+                "label",
+                "completed"
+              ],
+              "query": "%{pageVars.q}",
+              "__raw": {
+                "query": "%{pageVars.q}"
+              },
+              "bucket": "bz44zhyw",
+              "component": "list",
+              "allow_sorting": "true",
+              "height_option": "",
+              "id": "8f346b284960b77a28e7406d838b6ed8",
+              "list_spacing": "",
+              "height": 300
+            },
+            "h": "100%",
+            "w": "75%"
+          }
+        },
+        "name": "details.default.list",
+        "owner": "0a07872cc3bd4f7ca45db4c47e62c08e",
+        "page_vars": {
+          "layout": {
+            "version": 1,
+            "layout": [
+              {
+                "type": "section",
+                "colData": [ ],
+                "cols": [
+                  [
+                    {
+                      "type": "slot",
+                      "name": "q"
+                    }
+                  ]
+                ]
+              }
+            ],
+            "pageData": { }
+          },
+          "slots": {
+            "q": {
+              "type": "string",
+              "attributes": { },
+              "name": "q",
+              "labels": {
+                "label": "Query",
+                "labelp": "Queries"
+              }
+            }
+          }
+        },
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "title": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "xd64zn87.notes": {
+        "attributes": {
+          "pattern_validation": "0",
+          "maxlength": 250,
+          "only_alphanum": "false"
+        },
+        "bucket": "xd64zn87",
+        "id": "xd64zn87.notes",
+        "labels": {
+          "label": "Notes",
+          "labelp": "Noteses"
+        },
+        "name": "notes",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

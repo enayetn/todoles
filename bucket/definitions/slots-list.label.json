@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "xd64zn87.label": {
+        "attributes": {
+          "maxlength": 100,
+          "only_alphanum": true,
+          "placeholder_text": "ToDo List Name"
+        },
+        "bucket": "xd64zn87",
+        "created": "1509249167454",
+        "labels": {
+          "label": "Label",
+          "labelp": "Labels"
+        },
+        "name": "label",
+        "owner": "0a07872cc3bd4f7ca45db4c47e62c08e",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

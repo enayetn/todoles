@@ -1,0 +1,20 @@
+{
+  "bucket_data": {
+    "slots": {
+      "bz44zhyw.completed": {
+        "attributes": { },
+        "bucket": "bz44zhyw",
+        "created": "1509249345056",
+        "labels": {
+          "label": "Completed",
+          "labelp": "Completeds"
+        },
+        "name": "completed",
+        "owner": "0a07872cc3bd4f7ca45db4c47e62c08e",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "boolean"
+      }
+    }
+  }
+}

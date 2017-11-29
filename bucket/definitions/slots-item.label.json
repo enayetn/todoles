@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "bz44zhyw.label": {
+        "attributes": {
+          "maxlength": 250
+        },
+        "bucket": "bz44zhyw",
+        "created": "1509249382898",
+        "labels": {
+          "label": "Label",
+          "labelp": "Labels"
+        },
+        "name": "label",
+        "owner": "0a07872cc3bd4f7ca45db4c47e62c08e",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

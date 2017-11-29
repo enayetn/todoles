@@ -1,0 +1,16 @@
+{
+  "bucket_data": {
+    "banner": {
+      "173198f15b24455cb13e682c94ae66ef": {
+        "created": "1509293641986",
+        "html": "separate_file://bucket/data/banner-173198f15b24455cb13e682c94ae66ef-html.html",
+        "id": "173198f15b24455cb13e682c94ae66ef",
+        "is_default": "0",
+        "name": "Test Banner",
+        "owner": "0a07872cc3bd4f7ca45db4c47e62c08e",
+        "schema_version": "0",
+        "system_updated": "0"
+      }
+    }
+  }
+}

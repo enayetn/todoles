@@ -1,0 +1,144 @@
+{
+  "bucket_data": {
+    "pages": {
+      "5cbfd20f0f704bf5b43187fe6c34dbdf": {
+        "created": "1509295854880",
+        "id": "5cbfd20f0f704bf5b43187fe6c34dbdf",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504",
+              "component_069bfe9394b5363c5843ccb438545147"
+            ],
+            "layout_type": "page_components"
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "bz44zhyw",
+              "include_actions": "1",
+              "id": "42bf567cc0dcd4563264f98fbd245a26",
+              "component": "details",
+              "read_only": "false",
+              "new_record": "false",
+              "new_record_values": "[]",
+              "layout": {
+                "layout": {
+                  "version": 1,
+                  "layout": [
+                    {
+                      "type": "section",
+                      "colData": [
+                        {
+                          "column": 0
+                        }
+                      ],
+                      "cols": [
+                        [
+                          {
+                            "type": "slot",
+                            "name": "list"
+                          }
+                        ]
+                      ],
+                      "guid": "9fa5ce83a730b0bf8e6ba871ac4c97e7",
+                      "columns": 1
+                    },
+                    {
+                      "type": "section",
+                      "colData": [ ],
+                      "cols": [
+                        [
+                          {
+                            "type": "slot",
+                            "name": "label"
+                          }
+                        ]
+                      ],
+                      "guid": "854278770c309bd27dff992ec27a0557"
+                    }
+                  ],
+                  "pageData": { }
+                }
+              },
+              "query": "[\"id\",\"eq\",\"86406a8ac7454b28961c1643787fda03\"]",
+              "__raw": {
+                "query": "%{pageVars.q}"
+              }
+            },
+            "w": "100%",
+            "h": "50%"
+          },
+          "component_069bfe9394b5363c5843ccb438545147": {
+            "type": "component",
+            "component": "related",
+            "id": "component_069bfe9394b5363c5843ccb438545147",
+            "name": "component_069bfe9394b5363c5843ccb438545147",
+            "page_loading": false,
+            "needs_subpage_target": false,
+            "attributes": {
+              "component": "related",
+              "related": [
+                {
+                  "label": "Audit (target_resource)",
+                  "value": "audit.target_resource"
+                },
+                {
+                  "label": "Upload (record)",
+                  "value": "upload.record"
+                }
+              ],
+              "parent_query": "%{pageVars.q}"
+            },
+            "w": "100%",
+            "h": "50%"
+          }
+        },
+        "name": "details.default.item",
+        "owner": "0a07872cc3bd4f7ca45db4c47e62c08e",
+        "page_vars": {
+          "layout": {
+            "version": 1,
+            "layout": [
+              {
+                "type": "section",
+                "colData": [ ],
+                "cols": [
+                  [
+                    {
+                      "type": "slot",
+                      "name": "q"
+                    }
+                  ]
+                ]
+              }
+            ],
+            "pageData": { }
+          },
+          "slots": {
+            "q": {
+              "type": "string",
+              "attributes": { },
+              "name": "q",
+              "labels": {
+                "label": "Query",
+                "labelp": "Queries"
+              }
+            }
+          }
+        },
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "title": ""
+      }
+    }
+  }
+}
